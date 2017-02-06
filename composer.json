@@ -1,5 +1,5 @@
 {
-    "name": "schneekatze/distribution-bundle",
+    "name": "sensio/distribution-bundle",
     "description": "Base bundle for Symfony Distributions",
     "keywords": ["distribution","configuration"],
     "type": "symfony-bundle",
